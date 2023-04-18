@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: Roboto-Regular;
+  src: url(Fonts/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: Oswald-Medium;
+  src: url(Fonts/Oswald-Medium.ttf);
+}
+@font-face {
+  font-family: freefatfont-regular;
+  src: url(Fonts/freefatfont-regular.otf);
+}
+@font-face {
+  font-family: freefatfont-slanted;
+  src: url(Fonts/freefatfont-slanted.otf);
+}
