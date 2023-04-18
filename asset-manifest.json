@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Landing/static/css/main.b50f893e.css",
+    "main.js": "/Landing/static/js/main.16e7d03f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Landing/static/js/787.28cb0dcd.chunk.js",
+    "static/media/im (4).jpg": "/Landing/static/media/im (4).cc4de97bf05884a716a7.jpg",
+    "static/media/Group 3.svg": "/Landing/static/media/Group 3.27a31b3497f96dc01492383bef645520.svg",
+    "static/media/im (3).jpg": "/Landing/static/media/im (3).95fe272bf1fa88d08d53.jpg",
+    "static/media/Roboto-Regular.ttf": "/Landing/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/im (2).png": "/Landing/static/media/im (2).eaadd3858ee67efc7e81.png",
+    "static/media/im (1).png": "/Landing/static/media/im (1).665b03f933d5704f89c3.png",
+    "static/media/im.png": "/Landing/static/media/im.7a60ec6f666343305d00.png",
+    "static/media/Oswald-Medium.ttf": "/Landing/static/media/Oswald-Medium.292bdf409c7b9c1c5683.ttf",
+    "static/media/freefatfont-slanted.otf": "/Landing/static/media/freefatfont-slanted.4f19244689a8efa31904.otf",
+    "static/media/freefatfont-regular.otf": "/Landing/static/media/freefatfont-regular.3f077c8f6915b25f26be.otf",
+    "static/media/android-logo-svgrepo-com 1.svg": "/Landing/static/media/android-logo-svgrepo-com 1.d694868929d64055302d8266631708c2.svg",
+    "static/media/Group 4.svg": "/Landing/static/media/Group 4.06cd2563c6e6806ce0f51273e2f8ef4a.svg",
+    "static/media/LANDING.svg": "/Landing/static/media/LANDING.1fa673e72e452ed30ef6a7f4538ffbd5.svg",
+    "static/media/icons8-apple-logo 1.svg": "/Landing/static/media/icons8-apple-logo 1.1b6f303dc88f4ef27c290ac93c4ad68f.svg",
+    "static/media/Vector 1.svg": "/Landing/static/media/Vector 1.8fc8d004b224a9feb64531237afa912d.svg",
+    "index.html": "/Landing/index.html",
+    "main.b50f893e.css.map": "/Landing/static/css/main.b50f893e.css.map",
+    "main.16e7d03f.js.map": "/Landing/static/js/main.16e7d03f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Landing/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50f893e.css",
+    "static/js/main.16e7d03f.js"
+  ]
+}
